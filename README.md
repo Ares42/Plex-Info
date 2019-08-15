@@ -1,6 +1,6 @@
 # Welcome to Plex!
 
-![Plex logo](https://zhf1943ap1t4f26r11i05c7l-wpengine.netdna-ssl.com/wp-content/themes/plex/assets/img/plex-logo.svg)
+![Plex logo](https://pmcvariety.files.wordpress.com/2016/12/plex-logo-reverse.png?w=840&h=400&crop=1)
 
 If you're here, you've either been invited to Luke's Plex server, or you're curious about how to get started. Either way, lucky you!
 
