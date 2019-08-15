@@ -53,7 +53,7 @@ Yeah, it's a bummer. This is Plex's monetization strategy - they charge for the 
 
 I technically have two servers set up in case one fails. 
 
-- "Final Tower" is configured to run 24/7 and sits in my closet, and won't randomly be turned off by a drunk friend who thinks the RGB LEDs are too bright. 
+- "Final Tower" is configured to run 24/7 and sits in my closet, and won't randomly be turned off by a drunk friend who thinks the RGB LEDs are too bright. Please consider this to be my main server, and use it rather than 1080ti, which may be decommissioned in the future.
 - "1080ti" is my backup, feel free to use it if you are having any issues with Final Tower, but please text me so that I know there is an issue that I need to look into.
 
 
