@@ -65,7 +65,7 @@ I technically have two servers set up in case one fails.
 - [Android](https://github.com/moe-m/plex-docs/tree/master/settings/android)
 - [Apple TV](https://youtu.be/6itri_ZiJd8)
 
-##### complicated nerdy shit:
+##### Complicated Nerdy Shit:
 Most of the content on my server is extremely high bitrate Blu-Ray quality video - what this means for you is that anything you watch on Plex will look gorgeous on that 4k TV of yours. What it also means is that you might need to make some changes to ensure that it works at that level of quality. Keep in mind, there's a few links in the chain that may break:
 
 1. My internet upload speed
@@ -93,7 +93,7 @@ So you want to watch something I don't have? Awesome! I've set up a system so yo
 
 
 
-## Checking watch Statistics & monitoring Stream health
+## Checking Watch Statistics & Monitoring Stream health
 
 Want to see if you're direct streaming/playing a video, or want to see how much you've watched? Head to this URL:
 
@@ -139,7 +139,7 @@ This is usually an issue with my video files, and will require me to fix them ma
 My server hosts a very small collection of FLAC audio files, so if you have a high quality audio system, you can request music on ombi to listen to.
 
 
-# BOOKS & Audiobooks
+# Books & Audiobooks
 
 Guess what? I also host Books & Audiobooks!
 
