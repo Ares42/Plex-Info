@@ -97,7 +97,7 @@ So you want to watch something I don't have? Awesome! I've set up a system so yo
 
 Want to see if you're direct streaming/playing a video, or want to see how much you've watched? Head to this URL:
 
-**[https://requests.welcometothefucking.show](https://requests.welcometothefucking.show)**
+**[https://stats.welcometothefucking.show](https://stats.welcometothefucking.show)**
 
 - This app works WAY better than ombi does, so you shouldn't run into any issues logging in.
 - Stats are only recorded on things played from 'Final Tower', 1080ti views are not.
