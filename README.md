@@ -4,7 +4,7 @@
 
 If you're here, you've either been invited to Luke's Plex server, or you're curious about how to get started. Either way, lucky you!
 
-If you're here for Movies, music, or TV Shows, you're in the right place. If you want books or Audiobooks, just scroll down to that section.
+If you're here for Movies, Music, or TV Shows, you're in the right place. If you want Books or Audiobooks, just scroll down to that section.
 
 
 ## Plex and you
@@ -28,7 +28,7 @@ The catch is that I'm not very good at any of this, and the server may go down f
 
 ## The Basics
 
-**I don't know what I'm doing. Where to I start?**
+**I don't know what I'm doing. Where do I start?**
 
 1. If you haven't already, make an account at plex.tv (I highly recommend using the 'Sign in with Google/Facebook option so you don't tell me you forgot your password in a week')
 2. Send a text/email/facebook message to me with whatever email that you used to sign up
