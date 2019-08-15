@@ -59,8 +59,6 @@ I technically have two servers set up in case one fails.
 
 ## Direct Play
 
-This is a long, complex topic - so I'll start with what I need from you, and afterwards get into the complicated nerdy shit.
-
 **TL;DR:** *Try to prevent my server from having to transcode video. When playing video, set in the options to play 'original quality'*
 
 ##### How To Change Your Settings: (the rest of this section is coming soon)
