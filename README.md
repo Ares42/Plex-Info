@@ -7,7 +7,6 @@ If you're here, you've either been invited to Luke's Plex server, or you're curi
 If you're here for Movies, Music, or TV Shows, you're in the right place. If you want Books or Audiobooks, just scroll down to that section.
 
 
-## Plex and you
 
 **What the heck is Plex?**
 
@@ -49,12 +48,12 @@ NO. You can if you want to, the biggest advantage is that it lets you use Plex o
 
 Yeah, it's a bummer. This is Plex's monetization strategy - they charge for the mobile app. Frankly, $5 for a one time purchase isn't a huge deal for me, but I bought plex pass anyway. If you're planning to use it at home, don't worry - this is the only platform they charge for.
 
-## What the frick is 1080ti? Final Tower? These things are scaring me...
+## Why are there two servers?
 
 I technically have two servers set up in case one fails. 
 
-- "Final Tower" is configured to run 24/7 and sits in my closet, and won't randomly be turned off by a drunk friend who thinks the RGB LEDs are too bright. Please consider this to be my main server, and use it rather than 1080ti, which may be decommissioned in the future.
-- "1080ti" is my backup, feel free to use it if you are having any issues with Final Tower, but please text me so that I know there is an issue that I need to look into.
+- "Luke's Primary Server" is configured to run 24/7 and sits in my closet, and won't randomly be turned off by a drunk friend who thinks the RGB LEDs are too bright. Please consider this to be my main server, and use it rather than the backup server, which may be decommissioned in the future.
+- "Luke's Backup Server" is my backup, feel free to use it if you are having any issues with the primary server, but please text me so that I know there is an issue that I need to look into.
 
 
 ## Direct Play
@@ -79,7 +78,7 @@ Getting a Direct Play/Stream is really the only way to ensure that you're going 
 
 ## Requests
 
-So you want to watch something I don't have? Awesome! I've set up a system so you don't even have to get in touch with me.
+So you want to watch something I don't have? Awesome! I've set up a system so you don't even have to get in touch with me. 
 
 **[https://requests.welcometothefucking.show](https://requests.welcometothefucking.show)**
 
