@@ -4,7 +4,7 @@
 
 If you're here, you've either been invited to Luke's Plex server, or you're curious about how to get started. Either way, lucky you!
 
-If you're here for Movies, Music, or TV Shows, you're in the right place. If you want Books or Audiobooks, just scroll down to that section.
+If you're here for Movies, Music, or TV Shows, you're in the right place.
 
 
 
@@ -22,7 +22,7 @@ Nope. If you feel obliged, I'll accept donations in the form of [hard drives](ht
 
 **What's the catch?**
 
-The catch is that I'm not very good at any of this, and the server may go down from time to time, or I may be working on it. It's also pretty buggy, but I'm ironing them out slowly. 
+The catch is that I'm not very good at any of this, and the server may go down from time to time, or I may be working on it. It's also pretty buggy, but I'm ironing those out slowly. 
 
 
 ## The Basics
@@ -47,13 +47,6 @@ NO. You can if you want to, the biggest advantage is that it lets you use Plex o
 **I downloaded the iPhone/android app, but now it wants me to pay?**
 
 Yeah, it's a bummer. This is Plex's monetization strategy - they charge for the mobile app. Frankly, $5 for a one time purchase isn't a huge deal for me, but I bought plex pass anyway. If you're planning to use it at home, don't worry - this is the only platform they charge for.
-
-## Why are there two servers?
-
-I technically have two servers set up in case one fails. 
-
-- "Luke's Primary Server" is configured to run 24/7 and sits in my closet, and won't randomly be turned off by a drunk friend who thinks the RGB LEDs are too bright. Please consider this to be my main server, and use it rather than the backup server, which may be decommissioned in the future.
-- "Luke's Backup Server" is my backup, feel free to use it if you are having any issues with the primary server, but please text me so that I know there is an issue that I need to look into.
 
 
 ## Direct Play
@@ -80,15 +73,9 @@ Getting a Direct Play/Stream is really the only way to ensure that you're going 
 
 So you want to watch something I don't have? Awesome! I've set up a system so you don't even have to get in touch with me. 
 
-**[https://requests.welcometothefucking.show](https://requests.welcometothefucking.show)**
+**[https://ombi.highground.cloud/](https://ombi.highground.cloud/)**
 
-- If you're typing this URL in, make sure that you include the https! I don't know how to configure the redirect from http yet.
-- Logging in is a nightmare because this site SUCKS. The process looks like this:
-	1. Click "Sign in with plex" which opens a popup.
-	2. On the popup, log in (however you normally log in to plex)
-	3. Once the popup says "you may now close this popup," do so
-	4. Wait. For like, 30 seconds, sometimes. (Look, I know. It's a shit app. There's no alternative, which is why I'm making one.)
-	5. You're now in ombi. Enjoy!
+**Note - There's a bug with movie requests, so if you have one, just send me a message and I'll add it for you.
 
 
 
@@ -96,7 +83,7 @@ So you want to watch something I don't have? Awesome! I've set up a system so yo
 
 Want to see if you're direct streaming/playing a video, or want to see how much you've watched? Head to this URL:
 
-**[https://stats.welcometothefucking.show](https://stats.welcometothefucking.show)**
+**[https://stats.highground.cloud/](https://stats.highground.cloud/)**
 
 - This app works WAY better than ombi does, so you shouldn't run into any issues logging in.
 - Stats are only recorded on things played from 'Final Tower', 1080ti views are not.
@@ -133,19 +120,10 @@ It's probably your internet connection. Try setting the device to play a lower q
 
 This is usually an issue with my video files, and will require me to fix them manually, so text me.
 
+**The Movie is in French/Chinese/etc** 
+
+I'm trying my best, here.
+
 # Music
 
 My server hosts a very small collection of FLAC audio files, so if you have a high quality audio system, you can request music on ombi to listen to.
-
-
-# Books & Audiobooks
-
-Guess what? I also host Books & Audiobooks!
-
-https://books.welcometothefucking.show
-
-https://audiobooks.welcometothefucking.show/booksonic
-
-I have to make individual accounts for you, so message me for details.
-
-Requests have to be handled manually, so let me know if there's anything you want.
